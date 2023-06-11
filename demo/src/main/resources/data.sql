@@ -1,0 +1,2 @@
+delete from USER_PROFILE where LOGIN_ID='admin';
+insert into user_profile values('admin','india','admin@gmail.com','9876524411','Admin User','$2a$10$lPxsys7xfY6MtU/sAFF9quOsLMMu64VaICL5kFC5GYoGxElTxuBRK');
